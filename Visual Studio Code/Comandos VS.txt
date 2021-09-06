@@ -1,0 +1,32 @@
+01) Alt + Flechas Verticales: mover una linea
+02) Ctrl + Atl + Flechas Verticales: elegir lineas
+03) Ctrl + Atl + Flechas Verticales + Shift: elegir/no elegir lineas
+04) Ctrl + B: ocultar explorador
+05) Ctrl + Flechas Horizontales: dividir pantalla entre 2 o mas editores
+06) Shift + Alt + A: comentar una archivo
+07) Ctrl + Click Izquierdo: busca una palabra similar a la elegida
+08) Ctrl + Shift + L: seleccionar todas las ocurrencias de la selección
+09) Ctrl + Shift + K: borrar esas ocurrencias de la seleccion
+10) Ctrl + K, y luego soltando esas, Z: entra en modo cero distracciones
+11) Ctrl + P: buscador de archivos
+12) Ctrl + Shitf + Ñ: abre terminal
+13) Ctrl + Shift + P: comentar cierta parte del codigo
+14) Ctrl + W: cerrar pestaña
+15) Ctrl + K  Ctrl + W: cerrar todas las pestañas
+16) Ctrl + Shift + T: reabrir anterior
+17) Ctrl + Tab: cambiar de pestaña
+18) Ctrl + K, y luego, Ctrl + S: abre shorcuts
+19) Shitf + Alt + Flechas Verticales: duplica la linea
+20) Shitf + Supr: borra toda una linea entera
+21) Shift + Flechas Verticles: elegir lineas
+22) Shift + Alt: elige una palabra
+23) Ctrl + Shift + Alt + U: uppercase, pone la letra o palabra elegida en mayuscula
+24) Ctrl + Shift + Alt + L: lowercase, pone la letra o palabra elegida en minuscula
+25) Alt + Shift: selecciona una palabra o linea
+26) Shift + Flecha Horizontal: selecciona una palabra
+27) Ctrl + D: elegi palabras repetidas
+28) Ctrl + Shift + O: muestra las propiedades de un archivo
+29) Ctrl + Shift + :O: muestra las propiedades de un archivo, con clasificaciones
+30) Ctrl + G: elegimos una linea a la cual ir
+31) Ctrl + Shift + F: busca en todos los archivos, referencias a la palabra elegida
+32) Cursor + F2: cambia la definicion de esa palabra

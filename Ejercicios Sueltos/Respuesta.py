@@ -1,0 +1,6 @@
+respuesta = input("Estas aprendiendo a programar? 'Y' para si: ")
+result = (respuesta == 'Y')
+print("A ver, estas aprendiendo...")
+print(result)
+print("Invertimos el resultado usando NOT")
+print(not(result))

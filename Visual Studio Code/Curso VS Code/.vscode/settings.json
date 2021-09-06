@@ -1,0 +1,25 @@
+{
+    "bracket-pair-colorizer-2.showBracketsInRuler": true,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#2b61db",
+        "activityBar.activeBorder": "#6d132e",
+        "activityBar.background": "#2b61db",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#6d132e",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "editorGroup.border": "#2b61db",
+        "panel.border": "#2b61db",
+        "sideBar.border": "#2b61db",
+        "statusBar.background": "#1f4db4",
+        "statusBar.border": "#1f4db4",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#2b61db",
+        "titleBar.activeBackground": "#1f4db4",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#1f4db4",
+        "titleBar.inactiveBackground": "#1f4db499",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#1F4DB4"
+}
